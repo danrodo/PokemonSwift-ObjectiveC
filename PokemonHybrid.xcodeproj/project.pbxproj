@@ -58,6 +58,9 @@
 		5FCE30D01F8D274F00041E37 /* PokemonHybrid */ = {
 			isa = PBXGroup;
 			children = (
+				5FCE30E91F8D2BFD00041E37 /* ViewController */,
+				5FCE30E81F8D2BEA00041E37 /* Model Controller */,
+				5FCE30E71F8D2BDF00041E37 /* Model */,
 				5FCE30D11F8D274F00041E37 /* AppDelegate.h */,
 				5FCE30D21F8D274F00041E37 /* AppDelegate.m */,
 				5FCE30D41F8D274F00041E37 /* ViewController.h */,
@@ -69,6 +72,27 @@
 				5FCE30E01F8D274F00041E37 /* main.m */,
 			);
 			path = PokemonHybrid;
+			sourceTree = "<group>";
+		};
+		5FCE30E71F8D2BDF00041E37 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5FCE30E81F8D2BEA00041E37 /* Model Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "Model Controller";
+			sourceTree = "<group>";
+		};
+		5FCE30E91F8D2BFD00041E37 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
